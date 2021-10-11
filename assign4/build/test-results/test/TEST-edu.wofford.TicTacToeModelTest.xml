@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wofford.TicTacToeModelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-30T20:14:39" hostname="Matthews-MacBook-Pro-4.local" time="0.001">
+  <properties/>
+  <testcase name="testSomething" classname="edu.wofford.TicTacToeModelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
